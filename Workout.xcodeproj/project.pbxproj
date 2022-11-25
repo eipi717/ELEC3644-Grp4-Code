@@ -19,7 +19,6 @@
 		EE7E2792290C4CE400E544A9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE7E2791290C4CE400E544A9 /* ContentView.swift */; };
 		EE7E2794290C4CE600E544A9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE7E2793290C4CE600E544A9 /* Assets.xcassets */; };
 		EE7E2797290C4CE600E544A9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE7E2796290C4CE600E544A9 /* Preview Assets.xcassets */; };
-		EEC248B52930BF3E00425032 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = EEC248B42930BF3E00425032 /* GoogleService-Info.plist */; };
 		EEE179E3291F4C7D0077A270 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEE179E2291F4C7D0077A270 /* HomeView.swift */; };
 		EEE179E5291F4CCD0077A270 /* LogInView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEE179E4291F4CCD0077A270 /* LogInView.swift */; };
 		EEE179E7291F4CD80077A270 /* SettingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEE179E6291F4CD80077A270 /* SettingView.swift */; };
@@ -40,7 +39,6 @@
 		EE7E2791290C4CE400E544A9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		EE7E2793290C4CE600E544A9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EE7E2796290C4CE600E544A9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		EEC248B42930BF3E00425032 /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "Workout/GoogleService-Info.plist"; sourceTree = "<group>"; };
 		EEE179E2291F4C7D0077A270 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		EEE179E4291F4CCD0077A270 /* LogInView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogInView.swift; sourceTree = "<group>"; };
 		EEE179E6291F4CD80077A270 /* SettingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingView.swift; sourceTree = "<group>"; };
@@ -78,7 +76,6 @@
 		EE7E2783290C4CE400E544A9 = {
 			isa = PBXGroup;
 			children = (
-				EEC248B42930BF3E00425032 /* GoogleService-Info.plist */,
 				EE7E278E290C4CE400E544A9 /* Workout */,
 				EE7E278D290C4CE400E544A9 /* Products */,
 				228DE59E292DA7A6009744F5 /* Frameworks */,
@@ -240,7 +237,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EEC248B52930BF3E00425032 /* GoogleService-Info.plist in Resources */,
 				EE7E2797290C4CE600E544A9 /* Preview Assets.xcassets in Resources */,
 				EE7E2794290C4CE600E544A9 /* Assets.xcassets in Resources */,
 			);
